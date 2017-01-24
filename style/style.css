@@ -1,0 +1,25 @@
+.phone_logo {
+  height:200px;
+  width: auto;
+  cursor: pointer;
+  display:block;
+  margin: 20px auto;
+}
+
+.ambassador_image{
+  display:block;
+  width: 500px;
+  /*height: auto;*/
+  margin: 5px auto;
+}
+
+.ambassador_name, .messaging_text{
+  font-size:24px;
+  text-align: center;
+  margin: 20px auto 0 auto;
+}
+
+.ambassador_info{
+  position: relative;
+  margin: 0 auto 0 auto;
+}
